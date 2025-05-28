@@ -1,0 +1,11 @@
+{
+  "name": "binarysearch-rjt",
+  "version": "1.0.0",
+  "description": "A custom binary search package",
+  "main": "index.js",
+  "author": "rajat",
+  "license": "MIT",
+  "dependencies": {
+    "binarysearch-rjt": "^1.0.0"
+  }
+}
