@@ -10,3 +10,7 @@ function binarySearch(arr, target) {
 }
 
 module.exports = binarySearch;
+
+const binarySearch = require('./binarySearch');
+
+binarySearch([1, 3, 5, 7, 9], 5); // returns 2
